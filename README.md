@@ -24,16 +24,8 @@
 <img src="approach1_pic.png"/>
 
 <b>Picture 2:</b>
-
- 
-
-
-
-
-
-
-
-
+<img src="approach2_pic.png"/>
+ <br>
 
 Approach 2:
 •	The code allow the user to draw a polygon on an input image by clicking and dragging the mouse.
