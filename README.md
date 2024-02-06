@@ -1,6 +1,6 @@
 # OpenCV Shadow Removal
-<u><b>Approach 1:</b></u>
-<u><b>Mouse Callback Function:</b></u>
+<ins><b>Approach 1:</b></ins>
+<ins><b>Mouse Callback Function:</b></ins>
 <ul>
  <li>Handles mouse events such as button down, mouse movement, and button up.</li>
  <li>When the left mouse button is pressed down, it starts drawing by adding the current point to the list.</li>
