@@ -28,37 +28,23 @@
  <br>
 
 <u>Approach 2:</u>
-•	The code allow the user to draw a polygon on an input image by clicking and dragging the mouse.
-•	The drawn polygon is then used to create a region of interest (ROI) on the image.
-•	A grayscale version of the ROI is thresholded to create a binary mask, highlighting certain areas of interest.
-•	A road mask is created based on the drawn polygon, and this mask is applied to the original image.
-•	The result is displayed in a window ,showing the original image with the specified region masked in a different color.
+<ul>
+ <li>The code allow the user to draw a polygon on an input image by clicking and dragging the mouse.</li>
+ <li>The drawn polygon is then used to create a region of interest (ROI) on the image.</li>
+ <li>A grayscale version of the ROI is thresholded to create a binary mask, highlighting certain areas of interest.</li>
+ <li>A road mask is created based on the drawn polygon, and this mask is applied to the original image.</li>
+ <li>The result is displayed in a window ,showing the original image with the specified region masked in a different color.</li>
+</ul>
+	
+<b>Picture 1:</b>
+<b>Masked shadow region:</b><br>
+<img src="masked_image1.png" height="300px" width="500px"/><br>
+<b>Final image masked with different color:</b><br>
+ <img src="shadow_removed1.png" height="300px" width="500px"/><br>
 
-
-
-Picture 1:
-Masked shadow region:
- 
-
-
-
-
-
-
-Final image masked with different color:
- 
-
-Picture 2:
-Masked shadow region:
- 
-
-
-
-
-
-
-
-
-Final image masked with different color:
- 
-This is the final improvement I have done
+<b>Picture 2:</b>
+<b>Masked shadow region:</b><br>
+<img src="masked_image2.png" height="300px" width="500px"/><br> 
+<b>Final image masked with different color:</b><br>
+<img src="shadow_removed2.png" height="300px" width="500px"/><br>
+<b>This is the final improvement I have done<b>
