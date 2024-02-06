@@ -27,7 +27,7 @@
 <img src="approach1_pic2.png" height="300px" width="500px"/>
  <br>
 
-<u>Approach 2:</u>
+<b><u>Approach 2:</u></b>
 <ul>
  <li>The code allow the user to draw a polygon on an input image by clicking and dragging the mouse.</li>
  <li>The drawn polygon is then used to create a region of interest (ROI) on the image.</li>
