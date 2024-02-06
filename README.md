@@ -1,6 +1,6 @@
 # Shadow_Removal
-<b><u>Approach 1:</u></b>
-<b><u>Mouse Callback Function:</u></b>
+<u><b>Approach 1:</b></u>
+<u><b>Mouse Callback Function:</b></u>
 <ul>
  <li>Handles mouse events such as button down, mouse movement, and button up.</li>
  <li>When the left mouse button is pressed down, it starts drawing by adding the current point to the list.</li>
@@ -8,13 +8,13 @@
  <li>When the left mouse button is released, drawing is stopped, and the last point is added to the list.</li>
  <li>Calls fill_polygon function after drawing.</li>
 </ul>
-<b><u>fill_polygon Function:</u></b>
+<u><b>fill_polygon Function:</b></u>
 <ul>
  <li>Creates a binary mask for the polygon using the list of points.</li>
  <li>Increases the brightness of the pixels inside the polygon in the original image.</li>
 </ul>
 
-<b><u>Image Reading and Window Setup:</u></b>
+<u><b>Image Reading and Window Setup:</b></u>
 <ul>
  <li>Reads an image.</li>
  <li>Sets up a window named 'Image' and associates the mouse callback function.</li>
