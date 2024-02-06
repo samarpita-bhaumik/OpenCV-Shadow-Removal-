@@ -20,7 +20,7 @@
  <li>Sets up a window named 'Image' and associates the mouse callback function.</li>
 </ul>
 
-<b>Picture 1:</b>
+<b>Picture 1:</b><br>
 <img src="approach1_pic.png" height="300px" width="500px"/>
 
 <b>Picture 2:</b>
