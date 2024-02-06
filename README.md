@@ -24,7 +24,7 @@
 <img src="approach1_pic.png"/>
 
 <b>Picture 2:</b>
-<img src="approach2_pic.png"/>
+<img src="approach1_pic2.png"/>
  <br>
 
 Approach 2:
