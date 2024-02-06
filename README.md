@@ -21,7 +21,7 @@
 </ul>
 
 <b>Picture 1:</b>
-<img src="approach1_pic.png"/>
+<img src="approach1_pic.png" height="200px" width="200px"/>
 
 <b>Picture 2:</b>
 <img src="approach1_pic2.png"/>
