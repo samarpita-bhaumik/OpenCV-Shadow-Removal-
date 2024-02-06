@@ -1,4 +1,4 @@
-# OpenCV Shadow Removal
+# OpenCV Shadow Removal 
 <ins><b>Approach 1:</b></ins>
 <ins><b>Mouse Callback Function:</b></ins>
 <ul>
