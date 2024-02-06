@@ -20,11 +20,10 @@
  <li>Sets up a window named 'Image' and associates the mouse callback function.</li>
 </ul>
 
+<b>Picture 1:</b>
+<img src="./approach1_pic.png" >
 
-Picture 1:
- 
-
-Picture 2:
+<b>Picture 2:</b>
 
  
 
