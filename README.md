@@ -23,11 +23,11 @@
 <b>Picture 1:</b><br>
 <img src="approach1_pic.png" height="300px" width="500px"/>
 
-<b>Picture 2:</b>
-<img src="approach1_pic2.png"/>
+<b>Picture 2:</b><br>
+<img src="approach1_pic2.png" height="300px" width="500px"/>
  <br>
 
-Approach 2:
+<u>Approach 2:</u>
 •	The code allow the user to draw a polygon on an input image by clicking and dragging the mouse.
 •	The drawn polygon is then used to create a region of interest (ROI) on the image.
 •	A grayscale version of the ROI is thresholded to create a binary mask, highlighting certain areas of interest.
